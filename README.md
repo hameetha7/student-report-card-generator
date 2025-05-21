@@ -1,1 +1,1 @@
-
+Through this project, I learned how to read data from a CSV file and process it using Python. I practiced calculating totals, percentages, and generating custom feedback based on student scores. Additionally, I learned how to write new data into a CSV file and present output clearly in the terminal. This exercise improved my understanding of handling file I/O and basic data analysis in Python.
